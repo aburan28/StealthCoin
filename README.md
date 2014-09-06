@@ -1,0 +1,4 @@
+StealthCoin
+===========
+
+Encrypted wire protocol 
